@@ -6,4 +6,4 @@
 
 - 🔭 I’m currently working on, **Delphis**, a multi-channel streaming app
 - 📄 Know about my experiences: [resume](https://github.com/vikas32567/vikas32567/blob/main/vikas_tadala.pdf)
-- ⚡ Fun fact **Down for 1min blitz on [chess.com♟️](https://www.chess.com/member/vikas21193)**
+- ⚡ Challenge me for 1min blitz on **[chess.com♟️](https://www.chess.com/member/vikas21193)**
