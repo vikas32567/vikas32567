@@ -5,5 +5,5 @@
 
 
 - 🔭 I’m currently working on, **Delphis**, a multi-channel streaming app [Play Store](https://play.google.com/store/apps/details?id=com.mommopommo.delphis&hl=en), [Indus App store](https://www.indusappstore.com/apps/productivity/delphis/com.mommopommo.delphis/?page=details&id=com.mommopommo.delphis)
-- 📄 Know about my experiences: [resume](https://github.com/vikas32567/vikas32567/blob/main/vikas_tadala.pdf)
+- 📄 Know about my experiences: [resume](https://github.com/vikas32567/vikas32567/blob/main/vikas_tadala_ai.pdf)
 - ⚡ Challenge me for 1min blitz on **[chess.com♟️](https://www.chess.com/member/vikas21193)**
